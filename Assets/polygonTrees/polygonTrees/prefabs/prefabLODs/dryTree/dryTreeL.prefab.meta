@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f46242b347241214291627ae5eb38a53
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 224068
+  packageName: Polygon Trees
+  packageVersion: 2.5
+  assetPath: Assets/polygonTrees/polygonTrees/prefabs/prefabLODs/dryTree/dryTreeL.prefab
+  uploadId: 616684

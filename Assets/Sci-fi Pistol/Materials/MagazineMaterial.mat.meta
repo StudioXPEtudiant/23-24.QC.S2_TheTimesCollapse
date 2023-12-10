@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3b4e801d490ec42478231a2a3f3a69aa
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213679
+  packageName: 'Sci-fi Pistol [PBR]'
+  packageVersion: 1.0
+  assetPath: Assets/Sci-fi Pistol/Materials/MagazineMaterial.mat
+  uploadId: 481354

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9baff65762941194eb06a0bca7c09d0e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 224068
+  packageName: Polygon Trees
+  packageVersion: 2.5
+  assetPath: Assets/polygonTrees/polygonTrees/prefabs/prefabLODs/dryTree/dryBigLeavesTreeL.prefab
+  uploadId: 616684

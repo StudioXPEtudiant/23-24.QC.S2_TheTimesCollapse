@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8bd7d5e5d57a07243a9a05184341efee
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 224068
+  packageName: Polygon Trees
+  packageVersion: 2.5
+  assetPath: Assets/polygonTrees/polygonTrees/prefabs/tree/DryTrees/meshCollider/drySimpleTree
+    Variant.prefab
+  uploadId: 616684

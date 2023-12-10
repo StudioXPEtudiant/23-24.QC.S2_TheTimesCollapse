@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 00610eb96a93a964a98271c8cb8beb4b
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 224068
+  packageName: Polygon Trees
+  packageVersion: 2.5
+  assetPath: Assets/polygonTrees/polygonTrees/prefabs/shrubs/meshCollider/shrub Variant.prefab
+  uploadId: 616684

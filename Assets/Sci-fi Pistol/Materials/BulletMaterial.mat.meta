@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7b92e5dc7e90e9f469461f54eca138fe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213679
+  packageName: 'Sci-fi Pistol [PBR]'
+  packageVersion: 1.0
+  assetPath: Assets/Sci-fi Pistol/Materials/BulletMaterial.mat
+  uploadId: 481354

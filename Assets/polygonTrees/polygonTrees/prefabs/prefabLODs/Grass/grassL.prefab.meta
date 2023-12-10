@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d9b4a92be43b0714394a3b13fa36f2a8
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 224068
+  packageName: Polygon Trees
+  packageVersion: 2.5
+  assetPath: Assets/polygonTrees/polygonTrees/prefabs/prefabLODs/Grass/grassL.prefab
+  uploadId: 616684

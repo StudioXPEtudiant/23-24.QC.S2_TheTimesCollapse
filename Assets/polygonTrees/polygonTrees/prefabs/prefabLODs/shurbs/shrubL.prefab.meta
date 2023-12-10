@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 343e323b75979a640ba5084c93e8e4aa
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 224068
+  packageName: Polygon Trees
+  packageVersion: 2.5
+  assetPath: Assets/polygonTrees/polygonTrees/prefabs/prefabLODs/shurbs/shrubL.prefab
+  uploadId: 616684

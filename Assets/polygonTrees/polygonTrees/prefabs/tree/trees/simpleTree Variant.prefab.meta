@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 4b451f330da0a9f4da847e589f57a4fd
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 224068
+  packageName: Polygon Trees
+  packageVersion: 2.5
+  assetPath: Assets/polygonTrees/polygonTrees/prefabs/tree/trees/simpleTree Variant.prefab
+  uploadId: 616684

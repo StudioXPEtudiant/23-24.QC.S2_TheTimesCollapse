@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e3f7bbcc8bb377d4a8d43b541c1d3ed7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 224068
+  packageName: Polygon Trees
+  packageVersion: 2.5
+  assetPath: Assets/polygonTrees/polygonTrees/prefabs/tree/trees/meshCollider/purpleTree
+    Variant.prefab
+  uploadId: 616684

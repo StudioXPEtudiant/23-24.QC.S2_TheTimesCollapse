@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 23e3405884572154c9ce1aff4e132ba1
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 224068
+  packageName: Polygon Trees
+  packageVersion: 2.5
+  assetPath: Assets/polygonTrees/polygonTrees/scene/prefabs/scene.prefab
+  uploadId: 616684

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 35c69836ee796204a84fb6b9ea584b50
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 224068
+  packageName: Polygon Trees
+  packageVersion: 2.5
+  assetPath: Assets/polygonTrees/polygonTrees/prefabs/dryBranch/meshCollider/dryBranches
+    Variant.prefab
+  uploadId: 616684
