@@ -120,6 +120,89 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1001 &56694352
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.5997
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.5997
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.5997
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -349.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 65.81
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1686.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.78798014
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.61570066
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -76.006
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3169170560314704987, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_Name
+      value: Decorative Floating island 2 (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ecad565206be52d4aa27b61a6b9bc1af, type: 3}
 --- !u!1001 &75706690
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -295,6 +378,89 @@ RectTransform:
   m_AnchoredPosition: {x: 487, y: 396.5}
   m_SizeDelta: {x: 1469, y: 793}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1001 &286739097
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.5997
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.5997
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.5997
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -297.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 46.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1532.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7226263
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.69123894
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 87.457
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3169170560314704987, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_Name
+      value: Decorative Floating island 2 (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ecad565206be52d4aa27b61a6b9bc1af, type: 3}
 --- !u!1 &330585543
 GameObject:
   m_ObjectHideFlags: 0
@@ -702,6 +868,89 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7097ba7ba649e1f41bba232312bdcbd8, type: 3}
+--- !u!1001 &733923932
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.7323
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.7323
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.7323
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -390.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 54.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1727.94
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9674526
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.25305223
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -29.316
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8863924591472867771, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_Name
+      value: Decorative Floating island (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1c20b37bea53ead43818bcb5f1232e47, type: 3}
 --- !u!1001 &734603473
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -812,6 +1061,172 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &874413113
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.5997
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.5997
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.5997
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -322.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 75.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1422.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 393122928829542174, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3169170560314704987, guid: ecad565206be52d4aa27b61a6b9bc1af,
+        type: 3}
+      propertyPath: m_Name
+      value: Decorative Floating island 2 (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ecad565206be52d4aa27b61a6b9bc1af, type: 3}
+--- !u!1001 &1034412361
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.7323
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.7323
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.7323
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -280.63
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 70
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1483.5613
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8863924591472867771, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_Name
+      value: Decorative Floating island (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1c20b37bea53ead43818bcb5f1232e47, type: 3}
 --- !u!1 &1111634474
 GameObject:
   m_ObjectHideFlags: 0
@@ -1057,6 +1472,89 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e4a16b39497bccd48a0c72e2e2c7cc04, type: 3}
+--- !u!1001 &1131206666
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.7323
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.7323
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.7323
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -297.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 51.29
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1546.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.46520182
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.8852047
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 124.553
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8863924591472867771, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_Name
+      value: Decorative Floating island (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1c20b37bea53ead43818bcb5f1232e47, type: 3}
 --- !u!1001 &1596811356
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1566,6 +2064,89 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f14b6f7503476eb4e9b2afc1cc05e719, type: 3}
+--- !u!1001 &1932190658
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.7323
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.7323
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.7323
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -315.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 70
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1648.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.8692015
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.49445805
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 59.268
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8863924591472867771, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_Name
+      value: Decorative Floating island (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1c20b37bea53ead43818bcb5f1232e47, type: 3}
 --- !u!1001 &1966212689
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1718,12 +2299,12 @@ PrefabInstance:
     - target: {fileID: 1507636620937791777, guid: 7097ba7ba649e1f41bba232312bdcbd8,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 64.229256
+      value: 248.25893
       objectReference: {fileID: 0}
     - target: {fileID: 1507636620937791777, guid: 7097ba7ba649e1f41bba232312bdcbd8,
         type: 3}
       propertyPath: m_LocalScale.z
-      value: 124.55515
+      value: 383.06937
       objectReference: {fileID: 0}
     - target: {fileID: 1507636620937791777, guid: 7097ba7ba649e1f41bba232312bdcbd8,
         type: 3}
@@ -1785,6 +2366,89 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7097ba7ba649e1f41bba232312bdcbd8, type: 3}
+--- !u!1001 &2090471636
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.7323
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.7323
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.7323
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -318.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 63
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 1412.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7497085
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.6617683
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -82.87
+      objectReference: {fileID: 0}
+    - target: {fileID: 5470262545011369085, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8863924591472867771, guid: 1c20b37bea53ead43818bcb5f1232e47,
+        type: 3}
+      propertyPath: m_Name
+      value: Decorative Floating island (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1c20b37bea53ead43818bcb5f1232e47, type: 3}
 --- !u!1 &2109026369
 GameObject:
   m_ObjectHideFlags: 0
@@ -4329,7 +4993,7 @@ Transform:
   m_GameObject: {fileID: 8356104788183028496}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0.21803468, z: -0, w: 0.975941}
-  m_LocalPosition: {x: 864.5, y: 18.1, z: 510.4}
+  m_LocalPosition: {x: 202, y: 18.1, z: 1919}
   m_LocalScale: {x: 1.0342823, y: 1.0342823, z: 1.0342823}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -6175,3 +6839,11 @@ SceneRoots:
   - {fileID: 2109026372}
   - {fileID: 2051457369}
   - {fileID: 634586419}
+  - {fileID: 874413113}
+  - {fileID: 56694352}
+  - {fileID: 286739097}
+  - {fileID: 1034412361}
+  - {fileID: 1932190658}
+  - {fileID: 733923932}
+  - {fileID: 1131206666}
+  - {fileID: 2090471636}
